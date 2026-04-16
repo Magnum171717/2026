@@ -10,3 +10,4 @@ vless://8e265107-68cc-44e2-a719-aa841730fac4@151.101.195.6:443?mode=auto&path=%2
 vless://cf1e666a-20a3-4ecc-a2f9-69b095564be5@212.118.41.177:8086?security=none&encryption=none&headerType=none&type=tcp#NLD%20%F0%9F%87%B3%F0%9F%87%B1
 vless://8e265107-68cc-44e2-a719-aa841730fac4@154.197.80.96:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h3&echfq=none&host=x.roma-cloud.ru&fp=chrome&allowinsecure=1&type=xhttp&sni=x.roma-cloud.ru#G1%F0%9F%87%A9%F0%9F%87%AA
 vless://413dd0ae-383c-4aeb-b87c-ee04c4554982@154.206.12.154:443?path=%2F&security=tls&encryption=none&echfq=none&host=en.sel15.cfd&allowinsecure=1&type=ws&sni=en.sel15.cfd#L1+%F0%9F%87%AC%F0%9F%87%A7
+vless://cf1e666a-20a3-4ecc-a2f9-69b095564be5@154.206.12.145:443?path=%2F&security=tls&encryption=none&echfq=none&host=grr.sel15.cfd&allowinsecure=1&type=ws&sni=grr.sel15.cfd#G2+%F0%9F%87%A9%F0%9F%87%AA
