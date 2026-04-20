@@ -14,3 +14,4 @@ vless://c894bc12-51ba-4c47-b052-80bdd6d434ee@152.89.29.23:8443?security=reality&
 vless://040b6284-aaad-4c5e-9315-675e1f4ff8cc@fl2.egogo.org:443?security=reality&encryption=none&pbk=OicwfpyuR3WsgHYh4fA3xOyDcpMo-G8Z8qv6EaKN3wQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl2.egogo.org#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmVjdXNFZ5V0F5dXJnY2RjQVB3bVMyRnk2TTMyQ1RiZQ%3D%3D@216.227.161.43:51523#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%7C%20SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWUtmemNhYkdGME5GRmZBc1M4cGZfTUxuQ3VveFYySw==@50.7.177.63:51523#%F0%9F%87%B3%F0%9F%87%B1NLD-SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDN3l1a2hoNlBuOTA5d3VxajlQYWV3@92.119.166.79:1080#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+SS+2
