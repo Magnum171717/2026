@@ -15,4 +15,4 @@ vless://8e265107-68cc-44e2-a719-aa841730fac4@151.101.247.37:443?mode=auto&path=%
 vless://8e265107-68cc-44e2-a719-aa841730fac4@151.101.195.6:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=willingly-brave-chicken.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=127.0.0.1#FST%202%20%F0%9F%87%A9%F0%9F%87%AA
 vless://3c48d211-7984-4f1f-b2f0-9294759b80be@5.10.214.166:443?path=%2F&security=tls&encryption=none&host=rt.sel18.cfd&allowinsecure=0&type=ws&sni=rt.sel18.cfd#Forza+IT+%F0%9F%87%AE%F0%9F%87%B9
 vless://3c48d211-7984-4f1f-b2f0-9294759b80be@5.10.214.166:443?path=%2F&security=tls&encryption=none&insecure=0&host=rt.sel18.cfd&type=ws&allowInsecure=0&sni=rt.sel18.cfd#Forza%20IT%203%20%F0%9F%87%AE%F0%9F%87%B9
-vless://8e265107-68cc-44e2-a719-aa841730fac4@163.171.134.20:80?mode=auto&path=%2F&security=none&encryption=none&host=9494vps.com&type=xhttp#Frankfurt%20%F0%9F%87%A9%F0%9F%87%AA
+vless://8e265107-68cc-44e2-a719-aa841730fac4@163.171.134.20:80?mode=auto&path=%2F&security=none&encryption=none&host=rovps94.ru&type=xhttp#Frankfurt%20%F0%9F%87%A9%F0%9F%87%AA
