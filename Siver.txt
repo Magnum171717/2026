@@ -19,3 +19,4 @@ vless://3c48d211-7984-4f1f-b2f0-9294759b80be@8.31.160.27:443?path=%2F&security=t
 vless://8e265107-68cc-44e2-a719-aa841730fac4@163.171.134.20:80?mode=auto&path=%2F&security=none&encryption=none&host=rovps94.ru&type=xhttp#Frankfurt%20%F0%9F%87%A9%F0%9F%87%AA
 vless://8e265107-68cc-44e2-a719-aa841730fac4@168.235.196.132:80?mode=auto&path=%2F&security=none&encryption=none&host=rovps94.ru&type=xhttp#Frankfurt+2+%F0%9F%87%A9%F0%9F%87%AA
 vless://8e265107-68cc-44e2-a719-aa841730fac4@45.80.110.59:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h3&echfq=none&host=944.aaaa77.ru&fp=chrome&allowinsecure=1&type=xhttp&sni=944.aaaa77.ru#Frankfurt+3%F0%9F%87%A9%F0%9F%87%AA
+vless://3282b452-66a3-446f-b8f1-898318321636@51.250.3.36:443?security=reality&encryption=none&pbk=9pwsnVHwU3dEmFP0XVPhlbCtFgpflE5oyq55-vpHcwA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gosuslugi.ru&sid=6386d7b31c97a657#%F0%9F%87%AA%F0%9F%87%BA%20EU
