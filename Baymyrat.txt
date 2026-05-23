@@ -19,4 +19,4 @@ vless://b9e4b30e-dde3-4d38-b111-4f8ce8475735@216.58.206.203:443?path=%2F&securit
 vless://087545a5-140c-4984-be60-326c0dc6a94c@64.233.165.91:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ibe52is1je-467537176704.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=google.com#Google%208%20%F0%9F%87%A9%F0%9F%87%AA
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@163.171.134.20:80?mode=auto&path=%2F&security=none&encryption=none&host=94v.ru&type=xhttp#Frankfurt+%F0%9F%87%A9%F0%9F%87%AA
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@163.171.236.41:80?mode=auto&path=%2F&security=none&encryption=none&host=94v.ru&type=xhttp#Frankfurt+2+%F0%9F%87%A9%F0%9F%87%AA
-vless://087545a5-140c-4984-be60-326c0dc6a94c@156.224.73.246:443?path=%2F&security=tls&encryption=none&echfq=none&host=4.sel32.cfd&fp=chrome&allowinsecure=1&type=ws&sni=4.sel32.cfd#NLD+%F0%9F%87%B3%F0%9F%87%B1
+vless://087545a5-140c-4984-be60-326c0dc6a94c@156.224.73.252:443?path=%2F&security=tls&encryption=none&echfq=none&host=4.sel32.cfd&fp=chrome&allowinsecure=1&type=ws&sni=4.sel32.cfd#NLD+%F0%9F%87%B3%F0%9F%87%B1
