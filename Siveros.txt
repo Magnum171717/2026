@@ -21,5 +21,4 @@ vless://e393b8ef-363d-4d5d-8e9c-407646a47337@163.171.134.20:80?mode=auto&path=%2
 vless://e393b8ef-363d-4d5d-8e9c-407646a47337@163.171.236.41:80?mode=auto&path=%2F&security=none&encryption=none&host=94v.ru&type=xhttp#Frankfurt+2+%F0%9F%87%A9%F0%9F%87%AA
 vless://087545a5-140c-4984-be60-326c0dc6a94c@156.243.246.15:443?path=%2F&security=tls&encryption=none&echfq=none&host=4.sel32.cfd&fp=chrome&allowinsecure=1&type=ws&sni=4.sel32.cfd#NLD+%F0%9F%87%B3%F0%9F%87%B1
 vless://84455b25-963c-4df0-aed5-ec75773c3d56@92.222.128.104:11111?mode=packet-up&path=%2Fnew-weels&security=&encryption=none&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%2F%2F%20XHTTP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@216.155.144.149:44#%F0%9F%87%BA%F0%9F%87%B3Sadows%20%F0%9F%94%A5
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@104.156.226.7:44#%F0%9F%87%BA%F0%9F%87%B3Sadows%20%F0%9F%94%A5
