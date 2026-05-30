@@ -21,7 +21,6 @@ vless://0687b65a-80f7-4d81-8878-7acec9dd1045@216.58.206.203:443?path=%2F&securit
 vless://0687b65a-80f7-4d81-8878-7acec9dd1045@64.233.165.91:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=k0eyoidtjb-776259410859.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=google.com#Google%208%20%F0%9F%87%A9%F0%9F%87%AA
 vless://e393b8ef-363d-4d5d-8e9c-407646a47337@163.171.134.20:80?mode=auto&path=%2F&security=none&encryption=none&host=ssr.com&type=xhttp#Frankfurt+%F0%9F%87%A9%F0%9F%87%AA
 vless://e393b8ef-363d-4d5d-8e9c-407646a47337@157.185.164.104:80?mode=auto&path=%2F&security=none&encryption=none&host=ssr.com&type=xhttp#Frankfurt+2+%F0%9F%87%A9%F0%9F%87%AA
-vless://0687b65a-80f7-4d81-8878-7acec9dd1045@184.174.80.219:443?path=%2F&security=tls&encryption=none&echfq=none&host=1.sel32.cfd&fp=chrome&allowinsecure=1&type=ws&sni=1.sel32.cfd#NLD+%F0%9F%87%B3%F0%9F%87%B1
+vless://0687b65a-80f7-4d81-8878-7acec9dd1045@8.39.204.221:443?path=%2F&security=tls&encryption=none&echfq=none&host=1.sel32.cfd&fp=chrome&allowinsecure=1&type=ws&sni=1.sel32.cfd#NLD+%F0%9F%87%B3%F0%9F%87%B1
 vless://84455b25-963c-4df0-aed5-ec75773c3d56@84.54.48.253:11111?mode=packet-up&path=%2Fnew-weels&security=none&encryption=none&type=xhttp#%F0%9F%93%BA%201%20%2F%2F%20XHTTP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@192.248.174.209:44#%F0%9F%87%BA%F0%9F%87%B3Sadows%02%20%F0%9F%94%A5
-vless://a274ec78-d1fc-40b3-ae72-5013c7658637@de-2.neurostore.top:39691?security=reality&encryption=none&pbk=bVJE5sM3VA1c0NmBzF1RKCZDUi0plZABeyowCxn7aHI&headerType=&fp=chrome&spx=%2F2CCXYc54jm8lXXo&type=tcp&flow=xtls-rprx-vision&sni=de-2.neurostore.top&sid=394fbee7aac130#41%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@149.28.230.105:44#%F0%9F%87%BA%F0%9F%87%B3Sadows%02%20%F0%9F%94%A5
