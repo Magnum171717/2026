@@ -27,5 +27,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@66.135.2.104:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkhYdUY1RThEckJBYXhiU0gyX1c1MzYtNWZkRmZidA%3D%3D@138.16.163.94:726#%F0%9F%87%BA%F0%9F%87%B3Sadows%02%202%F0%9F%94%A5
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@163.171.134.20:80?mode=auto&path=%2F&security=none&encryption=none&host=ruru.ru&type=xhttp#%D0%A1%D0%A1%D0%A1%D0%A0%F0%9F%87%B7%F0%9F%87%BA
 vless://ec53b5ed-002a-493f-a618-82162f14df76@163.171.134.20:80?mode=auto&path=%2F&security=none&encryption=none&host=94avo.com&type=xhttp#Frankfurt%20%F0%9F%87%A9%F0%9F%87%AA
-vless://a20d0373-70e8-4285-a174-c536685b7180@138.16.163.94:720?security=none&encryption=none&headerType=none&type=tcp#Ultra+%F0%9F%87%B8%F0%9F%87%AA
 vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@62.60.148.29:8443?mode=auto&path=%2Fapi%2Finternal%2Fd8f4e2a91c6b&security=reality&encryption=none&pbk=d5nexWduzX2gCSQn1KoPPbDXBtAu7c_kCEychdxj_n4&host=maps.apple.com&fp=random&allowinsecure=0&type=xhttp&sni=maps.apple.com&sid=2da4299da566b7#%F0%9F%87%AB%F0%9F%87%B7+%F0%9F%93%B6+%F0%9F%8C%90+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F+%E2%84%966
