@@ -13,3 +13,4 @@ vless://4f0f86bd-d3ac-4e44-9605-8aea2865b95a@163.171.134.20:80?mode=auto&path=%2
 vless://a20d0373-70e8-4285-a174-c536685b7180@4.225.219.42:717?security=none&encryption=none&headerType=none&type=tcp#RSS%20%F0%9F%94%A5%F0%9F%87%A9%F0%9F%87%AA
 vless://a20d0373-70e8-4285-a174-c536685b7180@4.225.219.42:718?security=none&encryption=none&headerType=none&type=tcp#RSS%20%F0%9F%87%AC%F0%9F%87%A7
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@94.125.102.247:8081?security=none&encryption=none&headerType=none&type=tcp#Vivo%20Polska%20%F0%9F%87%B5%F0%9F%87%B1
+vless://e8bf9b16-4b82-4fc6-9e9b-afcd7d0e4b62@195.216.168.30:8085?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7FR
