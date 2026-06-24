@@ -10,3 +10,4 @@ vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@146.75.122.40:443?mode=auto&path=%2
 ss://YWVzLTEyOC1nY206ODVoNV9IdjRIRlZRX3NjYllKcFE3QQ%3D%3D@209.250.230.49:2060#%F0%9F%87%A9%F0%9F%87%AA%20SS%20%F0%9F%94%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@193.32.8.34:443#%F0%9F%87%AB%F0%9F%87%AE%20SS%20%F0%9F%94%A5
 vless://de740bc6-3672-4c26-b247-62f8291f85a4@193.32.8.33:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Vivo%20Polska
+vless://e8bf9b16-4b82-4fc6-9e9b-afcd7d0e4b62@163.171.213.241:80?mode=auto&path=%2F&security=none&encryption=none&host=ras.com&type=xhttp#%D0%A1%D0%A1%D0%A1%D0%A0%F0%9F%87%B7%F0%9F%87%BA
