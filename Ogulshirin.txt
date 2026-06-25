@@ -8,9 +8,8 @@ vless://02534406-0c92-46b0-ac14-fd7844f0ef37@119.235.122.58:443?path=%2F&securit
 vless://a2f1e281-99e1-40c3-bc48-c801f9b25960@146.75.122.40:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=willingly-brave-chicken.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=127.0.0.1#FASTLY%20%F0%9F%87%A9%F0%9F%87%AA
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@146.75.122.40:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=willingly-brave-chicken.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=127.0.0.1#FASTLY%202%20%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTEyOC1nY206ODVoNV9IdjRIRlZRX3NjYllKcFE3QQ%3D%3D@209.250.230.49:2060#%F0%9F%87%A9%F0%9F%87%AA%20SS%20%F0%9F%94%A5
-vless://e8bf9b16-4b82-4fc6-9e9b-afcd7d0e4b62@163.171.213.241:80?mode=auto&path=%2F&security=none&encryption=none&host=ras.com&type=xhttp#%D0%A1%D0%A1%D0%A1%D0%A0%F0%9F%87%B7%F0%9F%87%BA
-vless://83061003-c9aa-4948-a7d0-9d82296182ce@5.102.146.211:723?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%A9%F0%9F%87%AA
-vless://83061003-c9aa-4948-a7d0-9d82296182ce@5.102.146.211:722?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%B3%F0%9F%87%B1
-vless://fa777f0b-00f4-4ac8-82b9-e89ff7fbed00@193.32.8.123:92?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1+Vivo+Polska
-vless://de740bc6-3672-4c26-b247-62f8291f85a4@193.32.8.29:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1+Vivo+Polska+2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aDhuZWhyVlNuS0ZoanhrZU9kTGt6Z21CX05oeXVXYQ==@23.251.60.204:235#%F0%9F%87%AB%F0%9F%87%B7+SS+%F0%9F%94%A5
+vless://83061003-c9aa-4948-a7d0-9d82296182ce@194.62.96.12:718?security=&encryption=none&headerType=none&type=tcp#RSS%20%F0%9F%87%AC%F0%9F%87%A7
+vless://83061003-c9aa-4948-a7d0-9d82296182ce@5.102.146.183:723?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%A9%F0%9F%87%AA
+vless://83061003-c9aa-4948-a7d0-9d82296182ce@5.102.146.183:722?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%B3%F0%9F%87%B1
+vless://fa777f0b-00f4-4ac8-82b9-e89ff7fbed00@46.226.163.67:340?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BAEU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXcXNKdDVNZ1hHMVR0UmNIZFlVcG9R@46.226.167.45:450#%F0%9F%87%AA%F0%9F%87%BA+SS+%F0%9F%94%A5
