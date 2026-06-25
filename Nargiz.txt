@@ -13,3 +13,4 @@ vless://83061003-c9aa-4948-a7d0-9d82296182ce@5.102.146.183:723?security=none&enc
 vless://83061003-c9aa-4948-a7d0-9d82296182ce@5.102.146.183:722?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%B3%F0%9F%87%B1
 vless://fa777f0b-00f4-4ac8-82b9-e89ff7fbed00@46.226.163.67:340?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BAEU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXcXNKdDVNZ1hHMVR0UmNIZFlVcG9R@46.226.167.45:450#%F0%9F%87%AA%F0%9F%87%BA+SS+%F0%9F%94%A5
+ss://YWVzLTEyOC1nY206ODVoNV9IdjRIRlZRX3NjYllKcFE3QQ==@108.61.123.249:2060#%F0%9F%87%A9%F0%9F%87%AA+SS+2%F0%9F%94%A5
