@@ -15,3 +15,4 @@ vless://bfac1acc-45f8-47ca-87f1-a29936c9323d@hu99.bearbeer.digital:443?mode=auto
 vless://fa777f0b-00f4-4ac8-82b9-e89ff7fbed00@46.226.167.227:340?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA+Europe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzVTFSMGVjTzJjaWVnOU1PakdvZXNB@4.166.1.140:2053#%F0%9F%87%AA%F0%9F%87%BA+SS+%F0%9F%94%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@149.248.1.99:443#%F0%9F%87%AA%F0%9F%87%BA+SS+2+%F0%9F%94%A5
+vless://e8bf9b16-4b82-4fc6-9e9b-afcd7d0e4b62@136.244.66.118:8081?security=none&encryption=none&headerType=none&type=tcp#Frankfurt%20%F0%9F%87%A9%F0%9F%87%AA
