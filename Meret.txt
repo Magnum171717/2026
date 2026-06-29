@@ -5,8 +5,8 @@ vless://c72ccbf5-9aec-4917-a2ee-a250f0bde409@gmail.com:443?path=%2F%3Fed%3D2560&
 vless://02534406-0c92-46b0-ac14-fd7844f0ef37@142.250.27.155:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&echfq=none&host=yawbqe66uy-843939803933.europe-west1.run.app&fp=chrome&allowinsecure=0&type=ws&sni=www.google.com#𝗚𝗼𝗼𝗴𝗹𝗲+3+LLC++%F0%9F%87%A9%F0%9F%87%AA
 vless://a2f1e281-99e1-40c3-bc48-c801f9b25960@play.google.com:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=willingly-brave-chicken.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=127.0.0.1#FASTLY%20%F0%9F%87%A9%F0%9F%87%AA
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@146.75.122.40:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=willingly-brave-chicken.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=127.0.0.1#FASTLY%202%20%F0%9F%87%A9%F0%9F%87%AA
-vless://83061003-c9aa-4948-a7d0-9d82296182ce@194.62.96.61:718?security=&encryption=none&headerType=none&type=tcp#RSS%20%F0%9F%87%AC%F0%9F%87%A7
-vless://83061003-c9aa-4948-a7d0-9d82296182ce@194.62.96.61:723?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%A9%F0%9F%87%AA
+vless://83061003-c9aa-4948-a7d0-9d82296182ce@51.12.87.71:718?security=&encryption=none&headerType=none&type=tcp#RSS%20%F0%9F%87%AC%F0%9F%87%A7
+vless://83061003-c9aa-4948-a7d0-9d82296182ce@51.12.87.71:723?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%A9%F0%9F%87%AA
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@8.6.112.0:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=94ps.roma-cloud.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=94ps.roma-cloud.ru#%F0%9F%87%A9%F0%9F%87%AA%20Berlin
 vless://a5f338a4-030a-436e-aa1c-ae31582d0bdf@pl.themesh.site:443?security=reality&encryption=none&pbk=hVfdlxgAX6jLkh7knXvviYtCK4UyzfGvaRfCUPbwizY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.themesh.site&sid=4210e2ce5103ea11#%F0%9F%87%B5%F0%9F%87%B1%20Vivo%20Polska
 ss://YWVzLTEyOC1nY206ODVoNV9IdjRIRlZRX3NjYllKcFE3QQ@45.76.140.43:2060#%F0%9F%87%A9%F0%9F%87%AA%20SS%20%F0%9F%94%A5
