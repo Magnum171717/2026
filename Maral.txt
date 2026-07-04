@@ -14,7 +14,6 @@ vless://83061003-c9aa-4948-a7d0-9d82296182ce@45.67.139.84:720?security=&encrypti
 vless://83061003-c9aa-4948-a7d0-9d82296182ce@45.67.139.84:722?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%A9%F0%9F%87%AA
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@8.6.112.0:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=94ps.roma-cloud.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=94ps.roma-cloud.ru#%F0%9F%87%A9%F0%9F%87%AA%20Berlin
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@8.47.69.0:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=94ps.roma-cloud.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=94ps.roma-cloud.ru#%F0%9F%87%A9%F0%9F%87%AA%20Berlin%202
-vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@80.66.85.88:443?mode=multi&security=tls&encryption=none&authority=gr.ser94.site&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=gr.ser94.site#%F0%9F%87%A9%F0%9F%87%AA%20Berlin%203
-vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@89.169.13.115:443?mode=multi&security=tls&encryption=none&authority=gr.ser94.site&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=gr.ser94.site#%F0%9F%87%A9%F0%9F%87%AA%20Berlin%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.131.215.29:443#%F0%9F%87%A8%F0%9F%87%AD+SS+29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@83.147.216.150:443#%F0%9F%87%AB%F0%9F%87%B7+SS+150
+vless://de740bc6-3672-4c26-b247-62f8291f85a4@8.47.69.0:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=atlantic.vk221.online&fp=chrome&allowinsecure=0&type=ws&sni=atlantic.vk221.online#%F0%9F%87%A9%F0%9F%87%AA+Cloud
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.150.32.171:443#%F0%9F%87%AB%F0%9F%87%B7+SS+171+%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@62.60.148.166:443#%F0%9F%87%B3%F0%9F%87%B4+SS+166+%F0%9F%94%A5
