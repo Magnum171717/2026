@@ -13,3 +13,4 @@ vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@185.143.234.102:443?path=%2F&securi
 vless://c2787a01-97e6-f002-a87c-e50514e2a49e@gate2.gfyhub.cc:443?security=reality&encryption=none&pbk=yTFEbq95vvru8nQ7pg3DHQdIT5DXf1YdmhgfInlu-Rc&headerType=none&fp=firefox&spx=%2FGqiX7KKFACTkA9i&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rf2.gfy-x.su&sid=1ba5798b045750#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.131.215.77:443#%F0%9F%87%AB%F0%9F%87%B7+SS+77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.133.210.222:443#%F0%9F%87%BA%F0%9F%87%B8+SS+222
+vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@185.143.234.130:443?path=%2F&security=tls&encryption=none&insecure=0&host=94.cloudfloris.site&fp=chrome&type=ws&allowInsecure=0&sni=94.cloudfloris.site#%F0%9F%87%A9%F0%9F%87%AA%20Cloud%202
