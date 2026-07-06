@@ -12,3 +12,4 @@ vless://de740bc6-3672-4c26-b247-62f8291f85a4@8.47.69.0:443?path=%2F&security=tls
 vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@185.143.234.17:443?path=%2F&security=tls&encryption=none&insecure=0&host=94.cloudfloris.site&fp=chrome&type=ws&allowInsecure=0&sni=94.cloudfloris.site#%F0%9F%87%A9%F0%9F%87%AA%20Cloud%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.133.210.3:443#%F0%9F%87%A9%F0%9F%87%AA+SS+3+%F0%9F%94%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.133.210.2:443#%F0%9F%87%AB%F0%9F%87%AE+SS+2+%F0%9F%94%A5
+vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@185.143.234.130:443?path=%2F&security=tls&encryption=none&insecure=0&host=94.cloudfloris.site&fp=chrome&type=ws&allowInsecure=0&sni=94.cloudfloris.site#%F0%9F%87%A9%F0%9F%87%AA%20Cloud%202
