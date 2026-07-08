@@ -13,3 +13,4 @@ vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@85.217.170.56:2053?mode=multi&secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@194.62.66.82:443#%F0%9F%87%B3%F0%9F%87%B4+SS+82
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZTR3Y0RXeVktQ2s4Zk8wNUlldS1R@46.226.163.248:450#%F0%9F%87%AB%F0%9F%87%AE+SS+248
 vless://f7209703-6af0-42b6-8f1f-f55409ca2e4f@104.18.27.48:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&sni=p.vip16.cfd#%F0%9F%87%A9%F0%9F%87%AA+LTE+%284G%29
+vless://29fcd730-a23e-437f-ad41-76bc0ce87a09@194.55.235.202:58888?security=reality&encryption=none&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=payment-widget.plus.kinopoisk.ru&sid=9f8e7d6c5b4a3210#%F0%9F%87%B1%F0%9F%87%BB%20%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F
