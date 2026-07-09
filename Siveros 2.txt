@@ -9,8 +9,10 @@ vless://83061003-c9aa-4948-a7d0-9d82296182ce@64.233.164.143:443?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@193.41.4.158:443#%F0%9F%87%A8%F0%9F%87%AD+SS+158
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@193.41.4.203:443#%F0%9F%87%AB%F0%9F%87%AE+SS+203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZTR3Y0RXeVktQ2s4Zk8wNUlldS1R@79.137.206.151:1080#%F0%9F%87%B9%F0%9F%87%B7+SS+151?serverDescription=QW5rYXJh
+ss://YWVzLTEyOC1nY206ODVoNV9IdjRIRlZRX3NjYllKcFE3QQ==@45.76.135.243:301#%F0%9F%87%A9%F0%9F%87%AA+SS+243
 vless://8550b9eb-8e40-459a-a68e-1819fb630b66@85.193.91.186:9443?security=reality&encryption=none&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%AB%F0%9F%87%AE+186
 hysteria2://3734a6d5-39b9-4f8d-beea-e5c2699c1e45@fast_s80.slopllex.app:443?security=tls&allowinsecure=0&sni=fast_s80.slopllex.app#%F0%9F%87%AB%F0%9F%87%AE+Hysteria+%F0%9F%94%A5
 vless://83061003-c9aa-4948-a7d0-9d82296182ce@138.16.161.110:720?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%AA%F0%9F%87%BA
 vless://f7209703-6af0-42b6-8f1f-f55409ca2e4f@138.16.161.110:718?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%B1%F0%9F%87%B9
 vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@89.169.183.231:202?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Berlin
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE48
