@@ -14,3 +14,4 @@ vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@8.6.112.0:443?mode=auto&path=%2F&se
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?security=tls&allowinsecure=1#%F0%9F%87%B8%F0%9F%87%AC+Hysteria+%F0%9F%94%A5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMOWZmbHUxeWk5dDREVEpKOXBiRWt3@45.137.43.144:443#%F0%9F%87%AB%F0%9F%87%AE+SS+43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZTR3Y0RXeVktQ2s4Zk8wNUlldS1R@45.150.32.177:1080#%F0%9F%87%B8%F0%9F%87%AA+SS+32?serverDescription=4pym4pym4pym4pym
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZTR3Y0RXeVktQ2s4Zk8wNUlldS1R@45.150.32.177:1080#%F0%9F%87%B8%F0%9F%87%AA+SS+32?serverDescription=4pym4pym4pym4pym
