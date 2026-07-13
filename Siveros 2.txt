@@ -11,7 +11,6 @@ vless://33fdadfa-2996-4679-83d1-42f28fc8772e@45.150.36.11:720?security=none&encr
 vless://ad8c2c52-789c-4b1f-87ed-e6dbbc92c0a6@45.150.36.11:718?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%B1%F0%9F%87%B9
 vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@8.6.112.0:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=94ps.roma-cloud.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=94ps.roma-cloud.ru#%F0%9F%87%A9%F0%9F%87%AA%20Berlin%20wi%20fi
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?security=tls&allowinsecure=1#%F0%9F%87%B8%F0%9F%87%AC+Hysteria+%F0%9F%94%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@91.196.161.104:443#%F0%9F%87%A8%F0%9F%87%AD+SS+104
 vless://1e06c388-d31c-420e-916a-94a990648e34@sw-game-1.cloudgamings.org:8443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=sw-game-1.cloudgamings.org&fp=qq&type=ws&allowInsecure=0&sni=sw-game-1.cloudgamings.org#%F0%9F%87%A8%F0%9F%87%AD%F0%9F%94%90%20Zug-1%20%26%20WebSocket%20TLS
 vless://1ccef3b9-9a71-4b97-aeda-e8c1a083635c@45.76.139.200:201?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Berlin
 vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@193.41.5.182:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA+5
