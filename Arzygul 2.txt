@@ -15,6 +15,6 @@ vless://2eff605c-ad3b-46a6-9cd4-7658bff940fc@192.144.57.196:718?security=none&en
 vless://eb096335-84fd-440f-a9ea-10613cfcb4f2@192.144.57.196:720?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%AA%F0%9F%87%BA
 vless://ad8c2c52-789c-4b1f-87ed-e6dbbc92c0a6@192.144.57.196:718?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%B1%F0%9F%87%B9
 vless://b1989fba-ef5b-4d3e-8fe3-9214f094cbad@8.6.112.0:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=94ps.roma-cloud.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=94ps.roma-cloud.ru#%F0%9F%87%A9%F0%9F%87%AA%20Berlin
-vless://fbc31f86-e90a-45ea-bffe-28c5df41c23d@194.77.78.61:847?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5
+vless://fbc31f86-e90a-45ea-bffe-28c5df41c23d@194.77.78.85:847?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5
 vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@91.196.162.197:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA+197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@91.196.162.197:443#%F0%9F%87%B3%F0%9F%87%B4+SS+197
