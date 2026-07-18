@@ -15,4 +15,4 @@ vless://df4ec9ba-d976-460d-9a12-22da9b84d479@142.251.154.2:443?path=%2F&security
 vless://ce99594a-8622-4437-948a-f34b96c48f83@185.247.117.51:718?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%AC%F0%9F%87%A7
 vless://df4ec9ba-d976-460d-9a12-22da9b84d479@185.247.117.51:720?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%AA%F0%9F%87%BA
 vless://ad8c2c52-789c-4b1f-87ed-e6dbbc92c0a6@185.247.117.51:718?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%B1%F0%9F%87%B9
-vless://fbc31f86-e90a-45ea-bffe-28c5df41c23d@194.77.78.77:847?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5
+vless://fbc31f86-e90a-45ea-bffe-28c5df41c23d@194.77.78.15:847?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5
