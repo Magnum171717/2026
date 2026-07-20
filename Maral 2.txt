@@ -19,5 +19,6 @@ vless://df4ec9ba-d976-460d-9a12-22da9b84d479@185.247.117.51:720?security=none&en
 vless://ad8c2c52-789c-4b1f-87ed-e6dbbc92c0a6@185.247.117.51:718?security=none&encryption=none&headerType=none&type=tcp#RSS+%F0%9F%87%B1%F0%9F%87%B9
 vless://fbc31f86-e90a-45ea-bffe-28c5df41c23d@213.247.45.19:847?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5
 vless://1ddee681-4008-43e5-80cc-69fe44ce96e0@45.196.201.243:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=205748bc0f24a747#%F0%9F%87%B9%F0%9F%87%B7%20Turkish
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@149.248.0.160:2053#%F0%9F%87%B3%F0%9F%87%B4+SS+160
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTVBIWFdYTVJJaEhzTnRDR3o3WVFDUWZNMHdDcW9BMQ==@5.35.80.83:8388#%F0%9F%87%B8%F0%9F%87%AA+SS+83
 vless://d8b42cd5-a149-4356-9e61-000000000000@213.247.45.172:2550?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5%F0%9F%94%A5
+vless://f1eb7c9c-4017-4c66-8877-d24fc991d36a@67.159.55.244:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=atlantic.vk221.online&fp=chrome&allowinsecure=0&type=ws&sni=atlantic.vk221.online#%F0%9F%87%A8%F0%9F%87%AD+244
