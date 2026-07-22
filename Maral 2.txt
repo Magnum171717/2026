@@ -20,3 +20,4 @@ vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@45.32.183.180:101?security=none&enc
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@209.250.227.5:301?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+Berlin+3
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@208.103.161.100:443?mode=multi&security=tls&fragment=1-1,1-0,tlshello,100-200&encryption=none&authority=gr.ser94.site&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=gr.ser94.site#Berlin+2+%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@66.42.76.232:2053#%F0%9F%87%AB%F0%9F%87%AE+SS+232
+vless://fbc31f86-e90a-45ea-bffe-28c5df41c23d@213.214.100.8:847?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5
