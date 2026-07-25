@@ -29,3 +29,4 @@ vless://5098e189-3462-4ff7-8ddd-4aaecfd060ea@45.192.2.157:443?security=reality&e
 vless://fbc31f86-e90a-45ea-bffe-28c5df41c23d@83.217.192.249:847?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5%F0%9F%94%A5
 vless://51fd8e95-6442-4ef7-b63e-61320b2f2768@208.103.161.100:443?mode=multi&security=tls&fragment=1-1,1-0,tlshello,100-200&encryption=none&authority=gr.ser94.site&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=gr.ser94.site#Berlin+2+%F0%9F%87%A9%F0%9F%87%AA
 vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@95.181.174.47:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=94.vk221.online&fp=chrome&allowinsecure=0&type=ws&sni=94.vk221.online#%F0%9F%87%A8%F0%9F%87%AD47
+vless://6d5c9738-935b-4825-9da3-83d1fdcd4d67@77.232.43.236:2064?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20VLESS
