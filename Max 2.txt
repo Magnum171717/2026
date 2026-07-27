@@ -21,3 +21,4 @@ vless://69ccbcfc-5b90-4a15-b0bc-2a98ec1aa6cf@ads2.yandex-dev.online:443?flow=xtl
 vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@95.181.174.47:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=94.vk221.online&fp=chrome&allowinsecure=0&type=ws&sni=94.vk221.online#%F0%9F%87%A8%F0%9F%87%AD47
 vless://bfabf015-5393-4dc0-aff1-66cb8731a93c@163.181.1.186:443?mode=packet-up&path=%2F&security=tls&encryption=none&alpn=h3&host=m2.vip19.cfd&fp=chrome&allowinsecure=0&type=xhttp&sni=saker.cc#RSS+%F0%9F%87%B3%F0%9F%87%B1
 vless://fbc31f86-e90a-45ea-bffe-28c5df41c23d@151.101.109.17:443?mode=auto&path=%2F1ht&security=tls&alpn=h3&encryption=none&insecure=0&host=Fred443portlarucin.com&fp=chrome&type=xhttp&allowInsecure=0&sni=status.fastly.com#%F0%9F%87%AC%F0%9F%87%A7%20FASTLY%20INC.
+vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.154:2550?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5%F0%9F%94%A5
