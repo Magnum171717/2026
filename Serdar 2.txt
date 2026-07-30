@@ -18,3 +18,6 @@ vless://bfabf015-5393-4dc0-aff1-66cb8731a93c@163.181.1.186:443?mode=packet-up&pa
 vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@8.6.112.6:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=teke6.pythonpanel7.online&fp=chrome&allowinsecure=0&type=ws&sni=teke6.pythonpanel7.online#%F0%9F%87%AC%F0%9F%87%A7+6
 vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@83.217.192.21:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5
 hysteria2://Tekehan@tekehan.pythonpanel7.online:443?security=tls&allowinsecure=0&sni=tekehan.pythonpanel7.online#%F0%9F%87%B9%F0%9F%87%B7Hysteria+%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsUDZ1UjUtWi1oLWdfdklDMXpqcTIwb3J4cFdtWlNONw%3D%3D@23.251.59.136:16#%F0%9F%87%AC%F0%9F%87%A7%20SS
+hysteria2://Tekehan@hysteria.vpn77open77.online:443?security=tls&allowinsecure=0&sni=hysteria.vpn77open77.online#%F0%9F%87%AB%F0%9F%87%B7+Hysteria+%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@66.42.99.32:2053#%F0%9F%87%AB%F0%9F%87%B7+SS
