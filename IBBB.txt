@@ -14,3 +14,5 @@ vless://a13be5c6-be3a-48bb-8589-e03a40221f1c@163.181.0.185:443?path=%2F&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@66.42.99.32:2053#%F0%9F%87%AB%F0%9F%87%B7+SS
 vless://21ca717c-c9e8-40bc-a50b-8e2717e23452@201.34.129.187:1293?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20237
 vless://d8b42cd5-a149-4356-9e61-000000000000@212.221.26.46:2553?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%A5%F0%9F%94%A5
+vless://21ca717c-c9e8-40bc-a50b-8e2717e23452@13.32.91.2:443?path=%2F&security=tls&fragment=2%2C0-1%2Ctlshello&alpn=http%2F1.1&encryption=none&insecure=0&host=fredincloudfrontlaryucindomen.online&fp=chrome&type=ws&allowInsecure=0&sni=fredincloudfrontlaryucindomen.online#%F0%9F%87%AA%F0%9F%87%BA%20CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsUDZ1UjUtWi1oLWdfdklDMXpqcTIwb3J4cFdtWlNONw%3D%3D@144.172.97.218:13#%F0%9F%87%AB%F0%9F%87%AE%20SHADOWSOCKS
