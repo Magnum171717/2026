@@ -5,3 +5,5 @@ vless://caa3c208-4295-4313-b543-683f1d2fada5@177.1.202.133:722?security=none&enc
 vless://caa3c208-4295-4313-b543-683f1d2fada5@43.109.100.187:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=gerr.vip17.cfd&fp=chrome&allowinsecure=0&type=ws&sni=www.alibaba.com#ALL+%F0%9F%87%A9%F0%9F%87%AA
 vless://caa3c208-4295-4313-b543-683f1d2fada5@47.246.45.243:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ger.vip17.cfd&fp=chrome&allowinsecure=0&type=ws&sni=www.alibaba.com#ALL+%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSYWhwQW51MVRwdUhvd0Zuc1A4aXdR@81.2.235.234:157#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20Shadowsocks%20
+vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@43.109.100.191:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fred.3wkakajan3.ru&fp=chrome&type=ws&allowInsecure=0&sni=www.alibaba.com#%F0%9F%87%A8%F0%9F%87%AD%20ULTRA%20SPEED%20%E2%9C%A8%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsUDZ1UjUtWi1oLWdfdklDMXpqcTIwb3J4cFdtWlNONw%3D%3D@150.251.146.248:235#%F0%9F%87%AB%F0%9F%87%B7%20SHADOWSOCKS%7C%20SPEED%20%F0%9F%9A%80
