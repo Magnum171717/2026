@@ -10,3 +10,4 @@ vless://deedf090-8481-4283-bd8d-7dbf00630e2e@135.106.178.10:104?security=&encryp
 vless://d8b42cd5-a149-4356-9e61-000000000000@95.214.38.159:2550?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7+159
 vless://f16d63ec-b643-416e-826d-6a605a406c96@142.251.150.47:443?path=%2Fhhhfinka&security=tls&encryption=none&alpn=http/1.1&host=frex13-276939865728.europe-west1.run.app&fp=chrome&allowinsecure=0&type=ws&sni=www.google.com#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F_5+%F0%9F%87%AB%F0%9F%87%AE
 vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@201.34.135.13:1293?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@178.236.255.234:654?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
