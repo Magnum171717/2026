@@ -17,3 +17,4 @@ vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@85.193.89.189:1293?security=&encryp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsUDZ1UjUtWi1oLWdfdklDMXpqcTIwb3J4cFdtWlNONw%3D%3D@87.120.108.174:235#%F0%9F%87%AB%F0%9F%87%B7%20SHADOWSOCKS%20%F0%9F%9A%80
 vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@8.38.121.252:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fred.3wkakajan3.ru&fp=chrome&type=ws&allowInsecure=0&sni=www.alibaba.com#%F0%9F%87%AC%F0%9F%87%A7%20ULTRA%20SPEED%20%E2%9C%A8%EF%B8%8F
 vless://56aeb8d1-3443-4ef9-81dd-364e5785ad13@8.38.121.242:443?encryption=none&security=tls&sni=saker.cc&alpn=h3&fp=qq&type=xhttp&mode=packet-up&host=m9.vip19.cfd&path=%2F#ASTRA%20%20%F0%9F%87%B5%F0%9F%87%B1
+vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@185.99.98.63:654?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
