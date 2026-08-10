@@ -17,3 +17,5 @@ vless://119d8729-2713-43c8-ac40-95a152070379@173.194.73.164:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozamg0QWFKVGxwaHJ6VTdUSE5qdlkwNUk1ZHlPOHJ3Ng%3D%3D@85.193.88.50:13#%F0%9F%87%AB%F0%9F%87%AE%20SS
 vless://e37ad8ec-aa2d-478b-83c0-b1a0ca5c792e@158.158.37.117:723?encryption=none&security=none&type=tcp&headerType=none#117%20%F0%9F%87%A9%F0%9F%87%AA
 vless://d8b42cd5-b149-4356-9e61-111111111111@91.221.116.68:1041?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20PP
+vless://8328b497-63e0-4845-af7b-d642ae639a5a@4.182.199.14:2042?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%A8%EF%B8%8F%20%F0%9F%87%A8%F0%9F%87%AD
+vless://df67c8fa-3070-48fd-9760-9832cd3ccf90@108.177.14.106:443?path=%2Fmxhv&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vgerm-810797185830.europe-north1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#%E2%9C%A8%EF%B8%8F%20%F0%9F%87%B3%F0%9F%87%B1
