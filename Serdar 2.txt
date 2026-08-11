@@ -17,3 +17,7 @@ vless://2ca87d36-f853-4054-811b-6d0366cacd71@142.250.150.124:443?encryption=none
 vless://d8b42cd5-b149-4356-9e61-222222222222@62.132.2.80:1052?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9A%A1%EF%B8%8F
 vless://3ead1e20-7565-4c94-8a52-abffa4594d0d@45.153.69.165:1293?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://d8b42cd5-b149-4356-9e61-222222222222@62.132.2.80:1051?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%B8%20%E2%9A%A1%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozamg0QWFKVGxwaHJ6VTdUSE5qdlkwNUk1ZHlPOHJ3Ng%3D%3D@194.58.46.72:15#%E2%9C%A8%EF%B8%8F%20%F0%9F%87%AB%F0%9F%87%B7
+vless://1a649414-ac7d-42af-b9f2-f981917cf364@176.107.129.26:400?security=none&encryption=mlkem768x25519plus.native.0rtt.JavuLEitcTaSd-jTxLz2WlXvFNW_kYTTepUNA8iBZ1Q&headerType=none&type=tcp#%E2%9C%A8%EF%B8%8F%20%F0%9F%87%B9%F0%9F%87%B7
+trojan://_Zr4gskcwmx2v2Ra7MwpCg@144.225.70.21:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=z.88bu.fun#%E2%9C%A8%EF%B8%8F%20%F0%9F%87%AC%F0%9F%87%A7
+vless://3ead1e20-7565-4c94-8a52-abffa4594d0d@45.153.69.165:1293?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%A9
