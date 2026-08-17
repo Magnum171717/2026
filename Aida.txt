@@ -3,3 +3,4 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?security=
 trojan://EQEQyEKiYun5TLxVQKFNpg@217.60.183.213:703?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7France
 hysteria2://5293b769-b38f-4667-9a5f-5138ce0c9413@nl1.unlockvpn.online:10808/?sni=nl1.unlockvpn.online#%F0%9F%87%AA%F0%9F%87%BA%20Hysteria%20%F0%9F%94%A5
 hysteria2://5293b769-b38f-4667-9a5f-5138ce0c9413@nl1.unlockvpn.online:10808?security=tls&fm=%7B%7D&sni=nl1.unlockvpn.online#%F0%9F%87%B3%F0%9F%87%B1Hysteria%20%F0%9F%94%A5
+trojan://EQEQyEKiYun5TLxVQKFNpg@4.225.206.65:704?security=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGerman
