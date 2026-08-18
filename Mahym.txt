@@ -4,3 +4,5 @@ trojan://EQEQyEKiYun5TLxVQKFNpg@217.60.183.213:703?security=none&headerType=none
 hysteria2://5293b769-b38f-4667-9a5f-5138ce0c9413@nl1.unlockvpn.online:10808/?sni=nl1.unlockvpn.online#%F0%9F%87%AA%F0%9F%87%BA%20Hysteria%20%F0%9F%94%A5
 hysteria2://5293b769-b38f-4667-9a5f-5138ce0c9413@nl1.unlockvpn.online:10808?security=tls&fm=%7B%7D&sni=nl1.unlockvpn.online#%F0%9F%87%B3%F0%9F%87%B1Hysteria%20%F0%9F%94%A5
 trojan://EQEQyEKiYun5TLxVQKFNpg@4.225.206.65:704?security=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGerman
+hysteria2://VZTxDKZ7oQAs6FYsUi7iZL4fDuvwy16o@201.24.49.61:2700?security=tls&fm=%7B%7D&sni=www.google.com&pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7#%F0%9F%87%B1%F0%9F%87%BB%20Riga%20-%20Hysteria%20%F0%9F%94%A5
+hysteria2://VZTxDKZ7oQAs6FYsUi7iZL4fDuvwy16o@163.172.171.31:100?security=tls&fm=%7B%7D&sni=www.google.com&pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7#%F0%9F%87%AC%F0%9F%87%A7%20London%20-%20Hysteria%20%F0%9F%94%A5
