@@ -5,3 +5,4 @@ trojan://EQEQyEKiYun5TLxVQKFNpg@135.106.159.184:703?security=none&headerType=non
 hysteria2://VZTxDKZ7oQAs6FYsUi7iZL4fDuvwy16o@163.172.168.194:100?security=tls&fm=%7B%7D&sni=www.google.com&pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7#%F0%9F%87%AC%F0%9F%87%A7%20London%20-%20Premium
 vless://bfaece3f-6f5a-4395-ac67-35b72d2e3e0c@216.24.57.1:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=france.wspocket1.online&fp=chrome&type=xhttp&allowInsecure=0&sni=france.wspocket1.online#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20Turbo%20%E2%9A%A1
 hysteria2://VZTxDKZ7oQAs6FYsUi7iZL4fDuvwy16o@201.24.53.32:800?security=tls&fm=%7B%7D&sni=www.google.com&pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%20-%20Premium
+trojan://EQEQyEKiYun5TLxVQKFNpg@51.12.88.18:702?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEfinland
