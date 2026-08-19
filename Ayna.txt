@@ -10,3 +10,5 @@ vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@se.morinsq.su:443?security=reality&
 trojan://EQEQyEKiYun5TLxVQKFNpg@51.12.88.18:7004?security=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGerman
 vless://5d7380c3-c248-4fa6-9f9d-73a82b564f6f@84.255.31.124:443?security=tls&fragment=1-1%2C0-1%2Ctlshello&alpn=h3&encryption=none&insecure=0&host=d1q0ejehmwej7l.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d1q0ejehmwej7l.cloudfront.net#CLF
 trojan://EQEQyEKiYun5TLxVQKFNpg@51.12.93.169:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEfinland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqRXNXWEV4TlNzdDlCYlJiZEIwc05lQ2tsRzJBa1lRbA%3D%3D@135.106.193.213:1001#%F0%9F%87%B7%F0%9F%87%B4%20Bucharest%3FserverDescription%3D8J2XoPCdl67wnZe%2F8J2Yh%2FCdl7LwnZiFIOKctQ%3D%3D
+vless://a3f8bba5-3ffd-4044-a368-ac6a4a6c3723@216.176.238.197:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gr.nocky-vpn.site&fp=chrome&type=ws&allowInsecure=0&sni=gr.nocky-vpn.site#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Nuremberg%20%3FserverDescription%3D8J2XoPCdl67wnZe%2F8J2Yh%2FCdl7LwnZiFIOKctQ%3D%3D
