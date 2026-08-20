@@ -20,3 +20,4 @@ vless://aec6cb74-3bb0-4bf8-a130-1039c420540e@192.178.40.180:443?encryption=none&
 vless://93fab704-cea7-4ca4-a9ac-5bb46aef263c@se.morinsq.su:443?security=reality&encryption=none&pbk=uag6mQ8Nj62hZYzJhhd4ZZ-0GOGA42khyC6XtRbEnAg&headerType=none&fp=chrome&type=tcp&sni=se.morinsq.su&sid=77ca514a4493ae52#%F0%9F%87%B8%F0%9F%87%AA%20%5BVL%5D%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%237898
 trojan://EQEQyEKiYun5TLxVQKFNpg@51.12.88.18:7004?security=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGerman
 vless://5d7380c3-c248-4fa6-9f9d-73a82b564f6f@84.255.31.124:443?security=tls&fragment=1-1%2C0-1%2Ctlshello&alpn=h3&encryption=none&insecure=0&host=d1q0ejehmwej7l.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d1q0ejehmwej7l.cloudfront.net#CLF
+trojan://EQEQyEKiYun5TLxVQKFNpg@4.225.204.31:7003?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7France
