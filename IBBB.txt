@@ -1,7 +1,1 @@
-vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@200.165.224.26:1293?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://d8b42cd5-a149-4356-9e61-000000000000@95.214.38.10:2550?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7+10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUjM5NjAtaXV1M1RoaTNmZG9UelNn@87.120.196.182:2053#%F0%9F%87%A8%F0%9F%87%AD+SS
-vless://caa3c208-4295-4313-b543-683f1d2fada5@177.1.202.133:722?security=none&encryption=none&headerType=none&type=tcp#NLD++%F0%9F%87%B3%F0%9F%87%B1
-vless://caa3c208-4295-4313-b543-683f1d2fada5@43.109.100.187:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=gerr.vip17.cfd&fp=chrome&allowinsecure=0&type=ws&sni=www.alibaba.com#ALL+%F0%9F%87%A9%F0%9F%87%AA
-vless://caa3c208-4295-4313-b543-683f1d2fada5@47.246.45.243:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ger.vip17.cfd&fp=chrome&allowinsecure=0&type=ws&sni=www.alibaba.com#ALL+%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSYWhwQW51MVRwdUhvd0Zuc1A4aXdR@81.2.235.234:157#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20Shadowsocks%20
+vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@
