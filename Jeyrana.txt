@@ -11,3 +11,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXBnM2VzdkJvOUJCZjN6UlE1XzFR@83.217.202.68:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNi1qNk9YOWxqdncxYmNjNk4yWTNB@68.221.187.14:545#%F0%9F%87%B3%F0%9F%87%B1%20SS%F0%9F%9A%80
 vless://d8b42cd5-b149-4356-9e61-222222222222@45.140.36.118:1054?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20PRO%F0%9F%9A%80
 trojan://EQEQyEKiYun5TLxVQKFNpg@51.12.83.133:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEfinland
+vless://d8b42cd5-b149-4356-9e61-222222222222@45.140.36.74:1054?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20PRO%20SPEED%20LTE%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXBnM2VzdkJvOUJCZjN6UlE1XzFR@68.221.222.43:831#%F0%9F%87%B8%F0%9F%87%AA%20SHADOWSOCKS%20%E2%9C%A8%EF%B8%8F
+trojan://EQEQyEKiYun5TLxVQKFNpg@51.107.181.103:7003?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7France
