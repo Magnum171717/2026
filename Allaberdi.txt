@@ -1,3 +1,4 @@
+vless://d8b42cd5-b149-4356-9e61-111111111111@74.118.169.12:1042?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20GT
 trojan://EQEQyEKiYun5TLxVQKFNpg@136.148.67.81:7003?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://adaf5d12-e5ec-4016-9a58-acda857bb3d5@108.156.18.23:443?path=%2F&security=tls&fragment=3-3%2C0-1%2Ctlshello&alpn=http%2F1.1&encryption=none&insecure=0&host=d1bkeckpvxnzis.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d1bkeckpvxnzis.cloudfront.net#%F0%9F%87%AE%F0%9F%87%A9
 vless://fca44421-55ae-4ab7-8a83-bce66a06cc81@13.33.158.224:443?encryption=none&security=tls&sni=d20d3fq1uf0qot.cloudfront.net&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=d20d3fq1uf0qot.cloudfront.net&path=%2F#LN%20%F0%9F%87%AC%F0%9F%87%A7
