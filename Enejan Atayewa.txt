@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuLU5kODZNTm9ERTl5OHJEN1phejBR@4.184.59.245:333#%F0%9F%87%A9%F0%9F%87%AA%20SS
 trojan://EQEQyEKiYun5TLxVQKFNpg@136.148.67.11:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
 vless://faa150a1-61d5-406a-b994-47c3bdea5fee@13.33.158.225:443?encryption=none&security=tls&sni=dc56aa4s7y09u.cloudfront.net&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=dc56aa4s7y09u.cloudfront.net&path=%2F#L%20Sweden%20%F0%9F%87%B8%F0%9F%87%AA
 vless://faa150a1-61d5-406a-b994-47c3bdea5fee@13.33.158.225:443?encryption=none&security=tls&sni=d4t3yjgowzzet.cloudfront.net&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=d4t3yjgowzzet.cloudfront.net&path=%2F#L%20%20London%20%F0%9F%87%AC%F0%9F%87%A7
