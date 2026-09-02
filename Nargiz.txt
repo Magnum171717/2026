@@ -1,4 +1,4 @@
-trojan://EQEQyEKiYun5TLxVQKFNpg@136.148.67.238:7003?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
+trojan://EQEQyEKiYun5TLxVQKFNpg@45.92.219.130:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
 vless://1b7e47c7-15d2-43cc-9d2e-76500fe8fc43@82.158.113.11:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=ger-remnn.vip90.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
 vless://2dc54d77-8c70-4455-acc7-a5555fa6d2f8@82.158.113.11:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=ger-remnn.vip90.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
 vless://498a9413-af5d-4a83-adf6-1a9c9a45573f@82.158.113.11:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=ger-remnn.vip90.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
