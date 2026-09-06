@@ -1,5 +1,9 @@
-trojan://EQEQyEKiYun5TLxVQKFNpg@207.148.31.181:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYjlsN2Rra1AyUFRmOWdad3RNNDhLR01YZVByX0xGdQ%3D%3D@200.169.182.30:601#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%20-%20Premium%3FserverDescription%3D8J2XoPCdl67wnZe%2F8J2Yh%2FCdl7LwnZiFIOKctQ%3D%3D
+ss://chacha20-ietf-poly1305:GCFxxmBUC4y9-l75ClHAMxe0YEixc07D@81.7.13.183:112#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYjlsN2Rra1AyUFRmOWdad3RNNDhLR01YZVByX0xGdQ%3D%3D@200.169.182.85:443#%F0%9F%87%A9%F0%9F%87%AA%20SS
+trojan://EQEQyEKiYun5TLxVQKFNpg@212.80.221.85:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+vless://1b7e47c7-15d2-43cc-9d2e-76500fe8fc43@45.93.137.149:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
+vless://498a9413-af5d-4a83-adf6-1a9c9a45573f@45.93.137.149:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
+vless://e0be5f9f-9e56-481d-b7f7-c24dcf58a5a7@45.93.137.149:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
 vless://1b7e47c7-15d2-43cc-9d2e-76500fe8fc43@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
 vless://e0be5f9f-9e56-481d-b7f7-c24dcf58a5a7@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
 vless://498a9413-af5d-4a83-adf6-1a9c9a45573f@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
