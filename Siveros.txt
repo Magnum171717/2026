@@ -1,8 +1,8 @@
 trojan://EQEQyEKiYun5TLxVQKFNpg@45.67.136.125:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
 vless://554430f1-d814-4a21-93d2-46400177333f@3.174.113.27:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=diz473ibcfkh8.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.cft-fr.nq1mpppl.tech#%F0%9F%87%AB%F0%9F%87%B7%20G
-vless://aeb9b086-2453-464a-b14c-cf2aa5f14996@46.38.156.59:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
-vless://6144cede-6700-47d1-8693-736e86631b06@46.38.156.59:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
-vless://aeb9b086-2453-464a-b14c-cf2aa5f14996@46.38.156.59:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
+vless://aeb9b086-2453-464a-b14c-cf2aa5f14996@46.62.164.80:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
+vless://6144cede-6700-47d1-8693-736e86631b06@46.62.164.80:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
+vless://aeb9b086-2453-464a-b14c-cf2aa5f14996@46.62.164.80:443?encryption=none&security=tls&sni=fs.vip98.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=fs.vip98.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
 vless://6144cede-6700-47d1-8693-736e86631b06@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
 vless://aeb9b086-2453-464a-b14c-cf2aa5f14996@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
 vless://6144cede-6700-47d1-8693-736e86631b06@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
