@@ -1,7 +1,4 @@
-vless://b68455ec-08e3-4f84-bbfe-3af86a510aa3@50.7.177.8:443?encryption=none&security=tls&sni=pol.vip103.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=pol.vip103.cfd&path=%2F#B%20Sweden%20%F0%9F%87%A8%F0%9F%87%ADen%20%F0%9F%87%A8%F0%9F%87%AD
-vless://5331b798-6b28-4c97-b61b-824f57185192@50.7.177.8:443?encryption=none&security=tls&sni=pol.vip103.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=pol.vip103.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
-vless://689c7635-518a-4a01-84a4-a53669b95bac@50.7.177.8:443?encryption=none&security=tls&sni=pol.vip103.cfd&alpn=http%2F1.1&fp=chrome&type=ws&host=pol.vip103.cfd&path=%2F#Sweden%20%F0%9F%87%A8%F0%9F%87%AD
-vless://b68455ec-08e3-4f84-bbfe-3af86a510aa3@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#B%20AT%F0%9F%87%A9%F0%9F%87%AA
-vless://5331b798-6b28-4c97-b61b-824f57185192@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
-vless://689c7635-518a-4a01-84a4-a53669b95bac@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
-vless://5331b798-6b28-4c97-b61b-824f57185192@82.158.113.62:443?encryption=none&security=tls&sni=worldoftanks.com&alpn=h2&fp=chrome&type=xhttp&mode=packet-up&host=lon-remn-2.vip94.cfd&path=%2F#AA%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.149.46:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZkl6by1tVzVtak95eXpvWFkwa2EzNFN4eTFGTVhYTw%3D%3D@31.22.104.117:400#%F0%9F%87%AE%F0%9F%87%B9%20SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZkl6by1tVzVtak95eXpvWFkwa2EzNFN4eTFGTVhYTw%3D%3D@134.0.112.140:1080#%F0%9F%87%B1%F0%9F%87%BB%20SS
+vless://df82dd20-91e8-47dd-b643-90ba004eebb5@108.156.38.66:443?path=%2F&security=tls&fragment=3-3%2C0-1%2Ctlshello&alpn=http%2F1.1&encryption=none&insecure=0&host=diz473ibcfkh8.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.cft-fr.nq1mpppl.tech#%F0%9F%87%A8%F0%9F%87%AD%20CFD
