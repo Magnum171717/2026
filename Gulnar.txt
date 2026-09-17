@@ -1,5 +1,5 @@
-trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.151.154:7003?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZkl6by1tVzVtak95eXpvWFkwa2EzNFN4eTFGTVhYTw%3D%3D@95.133.252.63:400#%F0%9F%87%AE%F0%9F%87%B9%20SS
+trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.149.45:7003?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZkl6by1tVzVtak95eXpvWFkwa2EzNFN4eTFGTVhYTw%3D%3D@217.177.40.68:300#%F0%9F%87%AC%F0%9F%87%A7%20SS
 vless://400fbbd0-89eb-4722-b35e-14dfb2bf0309@108.156.38.67:443?encryption=none&security=tls&sni=d1zm5cavkml2ej.cloudfront.net&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=d1zm5cavkml2ej.cloudfront.net&path=%2F#D%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://400fbbd0-89eb-4722-b35e-14dfb2bf0309@108.156.38.68:443?encryption=none&security=tls&sni=d1rldflyose1jy.cloudfront.net&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=d1rldflyose1jy.cloudfront.net&path=%2F#D%20Sweden%20%F0%9F%87%B8%F0%9F%87%AA
 vless://400fbbd0-89eb-4722-b35e-14dfb2bf0309@108.156.38.69:443?encryption=none&security=tls&sni=d2plglnh3w6dlt.cloudfront.net&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=d2plglnh3w6dlt.cloudfront.net&path=%2F#D%20Finland%20%F0%9F%87%AB%F0%9F%87%AE
